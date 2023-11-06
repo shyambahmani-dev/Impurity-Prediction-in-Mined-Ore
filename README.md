@@ -1,5 +1,5 @@
 # Impurity-Prediction-in-Mined-Ore
-As part of my coursework, me and my team of total 4 members were given a dataset containing information about a flotation plant,
+As part of my coursework, me and my team of total 4 members were given a dataset (www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process) containing information about a flotation plant,
 which was specifically for iron ore mining. Our main goal was to use this dataset to predict how much impurity was in the ore 
 concentrate. As this impurity was being measured every hour, if we could predict how much silica (impurity) was in the ore
 concentrate, we could help the on-site engineers by giving them early information to take corrective actions in advance to reduce
